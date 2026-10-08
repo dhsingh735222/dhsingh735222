@@ -4,12 +4,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhsingh735222.github.io-0F172A?style=flat-square)](https://dhsingh735222.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dheeraj--kumar--netsec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-netsec/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-dhsingh735222-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhsingh735222/)
 [![Email](https://img.shields.io/badge/Email-dhsingh735222%40gmail.com-C2410C?style=flat-square&logo=gmail&logoColor=white)](mailto:dhsingh735222@gmail.com)
 
 I spent two years at **Wipro** (Sep 2024 – Aug 2026) on enterprise security:
 
 - **Adani Enterprises** – supported 100+ Palo Alto and FortiGate firewalls across 15+ global sites, reviewed 5,000+ firewall rules and standardised policy objects, cutting policy complexity by 25%.
-- **BluePearl (US healthcare)** – CyberArk Privilege Cloud administration, automated reconcile-account configuration, and led the PAM upgrade from v14.8 with post-upgrade validation.
+- **BluePearl (US healthcare)** – configured GCP Cloud NGFW firewall policies, administered CyberArk Privilege Cloud, automated reconcile-account configuration, and led the PAM upgrade from v14.8 with post-upgrade validation.
 
 Alongside security work I build software in Java, Python and JavaScript.
 
@@ -37,6 +38,19 @@ Alongside security work I build software in Java, Python and JavaScript.
 **Operations:** ServiceNow · ITIL change & incident management · log analysis · Regex automation
 
 **Development:** Java · Spring MVC · Hibernate · Python · FastAPI · JavaScript · Next.js · SQL · Docker · Git
+
+---
+
+### Problem solving
+
+I practise data structures and algorithms on LeetCode every day.
+
+<a href="https://leetcode.com/u/dhsingh735222/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/dhsingh735222?theme=dark&font=Inter&ext=heatmap">
+    <img alt="LeetCode stats for dhsingh735222" src="https://leetcard.jacoblin.cool/dhsingh735222?theme=light&font=Inter&ext=heatmap">
+  </picture>
+</a>
 
 ---
 
